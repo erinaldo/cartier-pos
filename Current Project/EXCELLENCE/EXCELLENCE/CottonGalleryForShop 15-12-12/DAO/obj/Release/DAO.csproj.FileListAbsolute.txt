@@ -1,0 +1,15 @@
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\DAO\bin\Release\DAO.dll
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\DAO\bin\Release\DAO.pdb
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\DAO\obj\Release\ResolveAssemblyReference.cache
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\DAO\obj\Release\DAO.dll
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\DAO\obj\Release\DAO.pdb
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\DAO\bin\Release\DAO.dll
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\DAO\bin\Release\DAO.pdb
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\DAO\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\DAO\obj\Release\DAO.dll
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\DAO\obj\Release\DAO.pdb
+D:\SUN\CottonGalleryForShop 15-12-12\DAO\bin\Release\DAO.dll
+D:\SUN\CottonGalleryForShop 15-12-12\DAO\bin\Release\DAO.pdb
+D:\SUN\CottonGalleryForShop 15-12-12\DAO\obj\Release\ResolveAssemblyReference.cache
+D:\SUN\CottonGalleryForShop 15-12-12\DAO\obj\Release\DAO.dll
+D:\SUN\CottonGalleryForShop 15-12-12\DAO\obj\Release\DAO.pdb

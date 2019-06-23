@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E5443A67-49DC-4379-865C-D7E149B5E0A2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Model</RootNamespace>
+    <AssemblyName>Model</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="CBase.cs" />
+    <Compile Include="CBase2.cs" />
+    <Compile Include="CCompany.cs" />
+    <Compile Include="CCurrency.cs" />
+    <Compile Include="CCustomer.cs" />
+    <Compile Include="CCVB.cs" />
+    <Compile Include="CEmployee.cs" />
+    <Compile Include="CGRDetails.cs" />
+    <Compile Include="CGRMaster.cs" />
+    <Compile Include="CItem.cs" />
+    <Compile Include="CItemGroup.cs" />
+    <Compile Include="CItemType.cs" />
+    <Compile Include="CLocation.cs" />
+    <Compile Include="CMaterialTransfer.cs" />
+    <Compile Include="CMemberShip.cs" />
+    <Compile Include="CMTDetails.cs" />
+    <Compile Include="CMTMaster.cs" />
+    <Compile Include="CCompanyBranch.cs" />
+    <Compile Include="CImage.cs" />
+    <Compile Include="CInventory.cs" />
+    <Compile Include="CItemSales.cs" />
+    <Compile Include="CParty.cs" />
+    <Compile Include="CPayment.cs" />
+    <Compile Include="CPurchase.cs" />
+    <Compile Include="CReturnItem.cs" />
+    <Compile Include="CSize.cs" />
+    <Compile Include="CSODetails.cs" />
+    <Compile Include="CSOMaster.cs" />
+    <Compile Include="CPriceMaster.cs" />
+    <Compile Include="CReorderLevel.cs" />
+    <Compile Include="CSupplier.cs" />
+    <Compile Include="CUOM.cs" />
+    <Compile Include="CUser.cs" />
+    <Compile Include="CUserAndBranch.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReturnProduct.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

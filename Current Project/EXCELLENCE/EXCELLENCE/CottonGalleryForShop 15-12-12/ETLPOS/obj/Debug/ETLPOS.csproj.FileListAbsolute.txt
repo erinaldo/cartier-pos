@@ -1,0 +1,1058 @@
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe.config
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.exe
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.pdb
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.pdb
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\BLL.dll
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Common.dll
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\DAO.dll
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Model.dll
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\office.dll
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\BLL.pdb
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Common.pdb
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\DAO.pdb
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Model.pdb
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ResolveAssemblyReference.cache
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.adailysalesrep.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.BaseForm.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.DailySaleDateInput.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ExportItem.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmBackup.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmBackupDB.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompany.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompanyBranch.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompanyToBranch.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCustomerList.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmDailySalesNew.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmEmployeeSearch.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmGoodsImport.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItem.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemGroup.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemStatus.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemType.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLocationToBranch.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLogin.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMasterExport.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMasterImport.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemberShip.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemberShipDetails.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemoList.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemoReport.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMTExpItems.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPALReport.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPartyEntry.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPayment.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPaymentView.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPriceview.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmProductSize.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPurchase.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPurchaseView.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReorderLevel.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReportReturn.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReportView.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSales.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSearchItem.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmsticker.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSupplier.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCurrency.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ETLPOSMDI.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCustomer.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmEmployee.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmGR.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLocation.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMaterialTransfer.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPriceMaster.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSearchGeneric.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSupplierList.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmUOM.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmUser.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmVatClnNo.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ItemUpdate.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.Properties.Resources.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.Return_Product.resources
+G:\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.csproj.GenerateResource.Cache
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe.config
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.exe
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.pdb
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.pdb
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\BLL.dll
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Common.dll
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\DAO.dll
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Model.dll
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\office.dll
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\BLL.pdb
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Common.pdb
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\DAO.pdb
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Model.pdb
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ResolveAssemblyReference.cache
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.adailysalesrep.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.BaseForm.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.DailySaleDateInput.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ExportItem.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmBackup.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmBackupDB.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompany.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompanyBranch.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompanyToBranch.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCustomerList.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmDailySalesNew.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmEmployeeSearch.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmGoodsImport.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItem.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemGroup.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemStatus.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemType.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLocationToBranch.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLogin.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMasterExport.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMasterImport.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemberShip.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemberShipDetails.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemoList.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemoReport.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMTExpItems.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPALReport.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPartyEntry.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPayment.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPaymentView.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPriceview.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmProductSize.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPurchase.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPurchaseView.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReorderLevel.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReportReturn.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReportView.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSales.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSearchItem.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmsticker.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSupplier.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCurrency.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ETLPOSMDI.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCustomer.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmEmployee.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmGR.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLocation.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMaterialTransfer.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPriceMaster.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSearchGeneric.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSupplierList.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmUOM.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmUser.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmVatClnNo.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ItemUpdate.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.Properties.Resources.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.Return_Product.resources
+E:\New folder (2)\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.csproj.GenerateResource.Cache
+C:\Users\rezvy\Desktop\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe.config
+C:\Users\rezvy\Desktop\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.exe
+C:\Users\rezvy\Desktop\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.pdb
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe.config
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.exe
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.pdb
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.pdb
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\BLL.dll
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Common.dll
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\DAO.dll
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Model.dll
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\BLL.pdb
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Common.pdb
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\DAO.pdb
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Model.pdb
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ResolveAssemblyReference.cache
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.adailysalesrep.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.BaseForm.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.DailySaleDateInput.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ExportItem.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmBackup.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmBackupDB.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompany.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompanyBranch.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompanyToBranch.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCustomerList.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmDailySalesNew.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmEmployeeSearch.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmGoodsImport.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItem.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemGroup.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemStatus.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemType.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLocationToBranch.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLogin.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMasterExport.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMasterImport.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemberShip.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemberShipDetails.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemoList.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemoReport.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMTExpItems.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPALReport.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPartyEntry.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPayment.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPaymentView.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPriceview.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmProductSize.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPurchase.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPurchaseView.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReorderLevel.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReportReturn.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReportView.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSales.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSearchItem.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmsticker.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSupplier.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCurrency.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ETLPOSMDI.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCustomer.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmEmployee.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmGR.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLocation.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMaterialTransfer.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPriceMaster.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSearchGeneric.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSupplierList.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmUOM.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmUser.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmVatClnNo.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ItemUpdate.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.Properties.Resources.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.Return_Product.resources
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.csproj.GenerateResource.Cache
+D:\REX\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ImportBranceSalce.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe.config
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.exe
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.pdb
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.pdb
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\BLL.dll
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Common.dll
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\DAO.dll
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Model.dll
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\office.dll
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\BLL.pdb
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Common.pdb
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\DAO.pdb
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Model.pdb
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ResolveAssemblyReference.cache
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.adailysalesrep.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.BaseForm.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.DailySaleDateInput.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ImportBranceSalce.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ExportItem.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmBackup.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmBackupDB.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompany.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompanyBranch.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompanyToBranch.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCustomerList.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmDailySalesNew.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmEmployeeSearch.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmGoodsImport.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItem.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemGroup.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemStatus.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemType.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLocationToBranch.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLogin.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMasterExport.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMasterImport.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemberShip.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemberShipDetails.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemoList.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemoReport.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMTExpItems.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPALReport.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPartyEntry.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPayment.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPaymentView.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPriceview.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmProductSize.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPurchase.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPurchaseView.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReorderLevel.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReportReturn.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReportView.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSales.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSearchItem.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmsticker.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSupplier.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCurrency.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ETLPOSMDI.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCustomer.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmEmployee.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmGR.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLocation.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMaterialTransfer.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPriceMaster.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSearchGeneric.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSupplierList.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmUOM.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmUser.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmVatClnNo.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ItemUpdate.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.Properties.Resources.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.Return_Product.resources
+F:\Use only for  Internet\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.csproj.GenerateResource.Cache
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe.config
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.exe
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.pdb
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.pdb
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\BLL.dll
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Common.dll
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\DAO.dll
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Model.dll
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\office.dll
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\BLL.pdb
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Common.pdb
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\DAO.pdb
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Model.pdb
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ResolveAssemblyReference.cache
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.adailysalesrep.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.BaseForm.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.DailySaleDateInput.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ImportBranceSalce.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ExportItem.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmBackup.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmBackupDB.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompany.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompanyBranch.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompanyToBranch.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCustomerList.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmDailySalesNew.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmEmployeeSearch.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmGoodsImport.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItem.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemGroup.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemStatus.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemType.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLocationToBranch.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLogin.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMasterExport.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMasterImport.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemberShip.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemberShipDetails.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemoList.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemoReport.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMTExpItems.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPALReport.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPartyEntry.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPayment.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPaymentView.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPriceview.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmProductSize.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPurchase.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPurchaseView.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReorderLevel.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReportReturn.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReportView.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSales.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSearchItem.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmsticker.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSupplier.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCurrency.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ETLPOSMDI.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCustomer.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmEmployee.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmGR.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLocation.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMaterialTransfer.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPriceMaster.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSearchGeneric.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSupplierList.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmUOM.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmUser.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmVatClnNo.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ItemUpdate.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.Properties.Resources.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.Return_Product.resources
+F:\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.csproj.GenerateResource.Cache
+G:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe.config
+G:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.exe
+G:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.pdb
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe.config
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.exe
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.pdb
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.pdb
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\BLL.dll
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Common.dll
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\DAO.dll
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Model.dll
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\office.dll
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\BLL.pdb
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Common.pdb
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\DAO.pdb
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Model.pdb
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ResolveAssemblyReference.cache
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.adailysalesrep.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.BaseForm.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.DailySaleDateInput.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ImportBranceSalce.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ExportItem.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmBackup.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmBackupDB.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompany.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompanyBranch.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompanyToBranch.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCustomerList.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmDailySalesNew.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmEmployeeSearch.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmGoodsImport.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItem.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemGroup.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemStatus.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemType.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLocationToBranch.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLogin.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMasterExport.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMasterImport.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemberShip.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemberShipDetails.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemoList.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemoReport.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMTExpItems.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPALReport.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPartyEntry.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPayment.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPaymentView.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPriceview.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmProductSize.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPurchase.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPurchaseView.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReorderLevel.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReportReturn.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReportView.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSales.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSearchItem.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmsticker.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSupplier.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCurrency.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ETLPOSMDI.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCustomer.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmEmployee.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmGR.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLocation.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMaterialTransfer.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPriceMaster.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSearchGeneric.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSupplierList.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmUOM.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmUser.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmVatClnNo.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ItemUpdate.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.Properties.Resources.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.Return_Product.resources
+E:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.csproj.GenerateResource.Cache
+H:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe.config
+H:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.exe
+H:\PURPLE FINAL\New folder (5)\purple\Now Developing\Purple\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.pdb
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe.config
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.exe
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.pdb
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.pdb
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\BLL.dll
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Common.dll
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\DAO.dll
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Model.dll
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\BLL.pdb
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Common.pdb
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\DAO.pdb
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Model.pdb
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ResolveAssemblyReference.cache
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.adailysalesrep.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.BaseForm.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.DailySaleDateInput.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ImportBranceSalce.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ExportItem.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmBackup.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmBackupDB.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompany.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompanyBranch.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompanyToBranch.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCustomerList.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmDailySalesNew.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmEmployeeSearch.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmGoodsImport.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItem.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemGroup.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemStatus.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemType.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLocationToBranch.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLogin.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMasterExport.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMasterImport.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemberShip.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemberShipDetails.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemoList.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemoReport.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMTExpItems.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPALReport.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPartyEntry.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPayment.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPaymentView.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPriceview.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmProductSize.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPurchase.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPurchaseView.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReorderLevel.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReportReturn.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReportView.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSales.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSearchItem.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmsticker.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSupplier.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCurrency.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ETLPOSMDI.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCustomer.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmEmployee.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmGR.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLocation.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMaterialTransfer.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPriceMaster.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSearchGeneric.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSupplierList.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmUOM.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmUser.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmVatClnNo.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ItemUpdate.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.Properties.Resources.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.Return_Product.resources
+D:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.csproj.GenerateResource.Cache
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe.config
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.exe
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.pdb
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.pdb
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\BLL.dll
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Common.dll
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\DAO.dll
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Model.dll
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\BLL.pdb
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Common.pdb
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\DAO.pdb
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Model.pdb
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ResolveAssemblyReference.cache
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.adailysalesrep.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.BaseForm.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.DailySaleDateInput.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ImportBranceSalce.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ExportItem.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmBackup.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmBackupDB.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompany.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompanyBranch.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompanyToBranch.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCustomerList.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmDailySalesNew.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmEmployeeSearch.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmGoodsImport.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItem.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemGroup.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemStatus.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemType.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLocationToBranch.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLogin.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMasterExport.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMasterImport.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemberShip.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemberShipDetails.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemoList.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemoReport.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMTExpItems.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPALReport.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPartyEntry.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPayment.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPaymentView.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPriceview.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmProductSize.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPurchase.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPurchaseView.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReorderLevel.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReportReturn.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReportView.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSales.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSearchItem.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmsticker.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSupplier.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCurrency.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ETLPOSMDI.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCustomer.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmEmployee.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmGR.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLocation.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMaterialTransfer.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPriceMaster.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSearchGeneric.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSupplierList.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmUOM.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmUser.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmVatClnNo.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ItemUpdate.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.Properties.Resources.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.Return_Product.resources
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.csproj.GenerateResource.Cache
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe.config
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.exe
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.pdb
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.pdb
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\BLL.dll
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Common.dll
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\DAO.dll
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Model.dll
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\office.dll
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\BLL.pdb
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Common.pdb
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\DAO.pdb
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Model.pdb
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ResolveAssemblyReference.cache
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.adailysalesrep.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.BaseForm.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.DailySaleDateInput.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ImportBranceSalce.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ExportItem.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmBackup.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmBackupDB.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompany.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompanyBranch.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompanyToBranch.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCustomerList.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmDailySalesNew.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmEmployeeSearch.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmGoodsImport.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItem.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemGroup.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemStatus.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemType.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLocationToBranch.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLogin.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMasterExport.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMasterImport.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemberShip.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemberShipDetails.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemoList.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemoReport.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMTExpItems.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPALReport.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPartyEntry.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPayment.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPaymentView.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPriceview.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmProductSize.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPurchase.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPurchaseView.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReorderLevel.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReportReturn.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReportView.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSales.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSearchItem.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmsticker.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSupplier.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCurrency.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ETLPOSMDI.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCustomer.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmEmployee.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmGR.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLocation.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMaterialTransfer.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPriceMaster.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSearchGeneric.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSupplierList.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmUOM.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmUser.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmVatClnNo.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ItemUpdate.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.Properties.Resources.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.Return_Product.resources
+E:\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.csproj.GenerateResource.Cache
+D:\REX\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ProductExportReport.resources
+D:\REX\New folder\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe.config
+D:\REX\New folder\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.exe
+D:\REX\New folder\HRAD PURPLE\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.pdb
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe.config
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.exe
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.pdb
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.pdb
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\BLL.dll
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Common.dll
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\DAO.dll
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Model.dll
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\BLL.pdb
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Common.pdb
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\DAO.pdb
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Model.pdb
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ResolveAssemblyReference.cache
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.adailysalesrep.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.BaseForm.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.DailySaleDateInput.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ImportBranceSalce.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ExportItem.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmBackup.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmBackupDB.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompany.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompanyBranch.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompanyToBranch.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCustomerList.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmDailySalesNew.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmEmployeeSearch.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmGoodsImport.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItem.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemGroup.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemStatus.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemType.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLocationToBranch.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLogin.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMasterExport.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMasterImport.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemberShip.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemberShipDetails.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemoList.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemoReport.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMTExpItems.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPALReport.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPartyEntry.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPayment.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPaymentView.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPriceview.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmProductSize.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPurchase.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPurchaseView.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReorderLevel.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReportReturn.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReportView.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSales.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSearchItem.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmsticker.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSupplier.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCurrency.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ETLPOSMDI.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCustomer.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmEmployee.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmGR.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLocation.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMaterialTransfer.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPriceMaster.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSearchGeneric.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSupplierList.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmUOM.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmUser.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmVatClnNo.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ItemUpdate.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ProductExportReport.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.Properties.Resources.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.Return_Product.resources
+D:\REX\Cartier\Head\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.csproj.GenerateResource.Cache
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe.config
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.exe
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.pdb
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.pdb
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\BLL.dll
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Common.dll
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\DAO.dll
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Model.dll
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\BLL.pdb
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Common.pdb
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\DAO.pdb
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Model.pdb
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ResolveAssemblyReference.cache
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.adailysalesrep.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.BaseForm.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.DailySaleDateInput.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ImportBranceSalce.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ExportItem.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmBackup.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmBackupDB.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompany.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompanyBranch.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompanyToBranch.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCustomerList.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmDailySalesNew.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmEmployeeSearch.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmGoodsImport.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItem.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemGroup.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemStatus.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemType.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLocationToBranch.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLogin.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMasterExport.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMasterImport.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemberShip.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemberShipDetails.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemoList.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemoReport.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMTExpItems.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPALReport.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPartyEntry.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPayment.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPaymentView.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPriceview.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmProductSize.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPurchase.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPurchaseView.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReorderLevel.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReportReturn.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReportView.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSales.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSearchItem.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmsticker.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSupplier.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCurrency.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ETLPOSMDI.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCustomer.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmEmployee.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmGR.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLocation.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMaterialTransfer.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPriceMaster.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSearchGeneric.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSupplierList.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmUOM.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmUser.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmVatClnNo.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ItemUpdate.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ProductExportReport.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.Properties.Resources.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.Return_Product.resources
+D:\REX\Cartier\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.csproj.GenerateResource.Cache
+C:\Users\Cartier\Desktop\CARTIER\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe.config
+C:\Users\Cartier\Desktop\CARTIER\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.exe
+C:\Users\Cartier\Desktop\CARTIER\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.pdb
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe.config
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.exe
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.pdb
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.pdb
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\BLL.dll
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Common.dll
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\DAO.dll
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Model.dll
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\office.dll
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\BLL.pdb
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Common.pdb
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\DAO.pdb
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Model.pdb
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ResolveAssemblyReference.cache
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.adailysalesrep.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.BaseForm.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.DailySaleDateInput.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ImportBranceSalce.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ExportItem.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmBackup.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmBackupDB.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompany.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompanyBranch.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompanyToBranch.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCustomerList.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmDailySalesNew.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmEmployeeSearch.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmGoodsImport.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItem.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemGroup.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemStatus.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemType.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLocationToBranch.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLogin.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMasterExport.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMasterImport.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemberShip.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemberShipDetails.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemoList.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemoReport.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMTExpItems.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPALReport.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPartyEntry.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPayment.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPaymentView.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPriceview.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmProductSize.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPurchase.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPurchaseView.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReorderLevel.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReportReturn.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReportView.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSales.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSearchItem.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmsticker.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSupplier.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCurrency.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ETLPOSMDI.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCustomer.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmEmployee.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmGR.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLocation.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMaterialTransfer.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPriceMaster.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSearchGeneric.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSupplierList.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmUOM.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmUser.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmVatClnNo.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ItemUpdate.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ProductExportReport.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.Properties.Resources.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.Return_Product.resources
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.csproj.GenerateResource.Cache
+D:\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.CardSaleCashSaleReport.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe.config
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.pdb
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\BLL.dll
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Common.dll
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\DAO.dll
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Model.dll
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\BLL.pdb
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Common.pdb
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\DAO.pdb
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Model.pdb
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ResolveAssemblyReference.cache
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.adailysalesrep.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.BaseForm.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.CardSaleCashSaleReport.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.DailySaleDateInput.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ImportBranceSalce.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ExportItem.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmBackup.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmBackupDB.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompany.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompanyBranch.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompanyToBranch.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCustomerList.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmDailySalesNew.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmEmployeeSearch.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmGoodsImport.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItem.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemGroup.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemStatus.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemType.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLocationToBranch.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLogin.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMasterExport.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMasterImport.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemberShip.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemberShipDetails.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemoList.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemoReport.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMTExpItems.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPALReport.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPartyEntry.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPayment.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPaymentView.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPriceview.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmProductSize.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPurchase.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPurchaseView.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReorderLevel.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReportReturn.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReportView.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSales.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSearchItem.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmsticker.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSupplier.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCurrency.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ETLPOSMDI.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCustomer.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmEmployee.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmGR.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLocation.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMaterialTransfer.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPriceMaster.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSearchGeneric.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSupplierList.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmUOM.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmUser.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmVatClnNo.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ItemUpdate.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ProductExportReport.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.Properties.Resources.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.Return_Product.resources
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.csproj.GenerateResource.Cache
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.exe
+D:\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.pdb
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe.config
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.exe
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.pdb
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.exe
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\ETLPOS.pdb
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\BLL.dll
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Common.dll
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\DAO.dll
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Model.dll
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\BLL.pdb
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Common.pdb
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\DAO.pdb
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\bin\Debug\Model.pdb
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ResolveAssemblyReference.cache
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.adailysalesrep.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.BaseForm.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.CardSaleCashSaleReport.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.DailySaleDateInput.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemberShip.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ImportBranceSalce.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ExportItem.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmBackup.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmBackupDB.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompany.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompanyBranch.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCompanyToBranch.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCustomerList.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmDailySalesNew.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmEmployeeSearch.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmGoodsImport.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItem.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemGroup.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemStatus.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmItemType.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLocationToBranch.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLogin.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMasterExport.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMasterImport.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemberShipDetails.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemoList.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMemoReport.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMTExpItems.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPALReport.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPartyEntry.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPayment.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPaymentView.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPriceview.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmProductSize.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPurchase.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPurchaseView.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReorderLevel.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReportReturn.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmReportView.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSales.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSearchItem.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmsticker.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSupplier.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCurrency.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ETLPOSMDI.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmCustomer.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmEmployee.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmGR.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmLocation.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmMaterialTransfer.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmPriceMaster.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSearchGeneric.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmSupplierList.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmUOM.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmUser.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.frmVatClnNo.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ItemUpdate.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.ProductExportReport.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.Properties.Resources.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.Return_Product.resources
+F:\3\Current Project\EXCELLENCE\EXCELLENCE\CottonGalleryForShop 15-12-12\ETLPOS\obj\Debug\ETLPOS.csproj.GenerateResource.Cache

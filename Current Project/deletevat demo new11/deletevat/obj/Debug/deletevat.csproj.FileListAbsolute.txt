@@ -1,0 +1,278 @@
+E:\Peoject faki\project Vat\deletevat\deletevat\bin\Debug\deletevat.exe
+E:\Peoject faki\project Vat\deletevat\deletevat\bin\Debug\deletevat.pdb
+E:\Peoject faki\project Vat\deletevat\deletevat\obj\Debug\ResolveAssemblyReference.cache
+E:\Peoject faki\project Vat\deletevat\deletevat\obj\Debug\deletevat.frmMain.resources
+E:\Peoject faki\project Vat\deletevat\deletevat\obj\Debug\deletevat.Properties.Resources.resources
+E:\Peoject faki\project Vat\deletevat\deletevat\obj\Debug\deletevat.csproj.GenerateResource.Cache
+E:\Peoject faki\project Vat\deletevat\deletevat\obj\Debug\deletevat.exe
+E:\Peoject faki\project Vat\deletevat\deletevat\obj\Debug\deletevat.pdb
+E:\Peoject faki\project Vat\deletevat\deletevat\bin\Debug\deletevat.exe.config
+E:\Peoject faki\project Vat\deletevat\deletevat\bin\Debug\DAL.dll
+E:\Peoject faki\project Vat\deletevat\deletevat\bin\Debug\DAL.pdb
+C:\Users\etl\Desktop\project Vat\deletevat\deletevat\bin\Debug\deletevat.exe.config
+C:\Users\etl\Desktop\project Vat\deletevat\deletevat\obj\Debug\deletevat.exe
+C:\Users\etl\Desktop\project Vat\deletevat\deletevat\obj\Debug\deletevat.pdb
+C:\Users\etl\Desktop\project Vat\deletevat\deletevat\bin\Debug\deletevat.exe
+C:\Users\etl\Desktop\project Vat\deletevat\deletevat\bin\Debug\deletevat.pdb
+C:\Users\etl\Desktop\project Vat\deletevat\deletevat\bin\Debug\DAL.dll
+C:\Users\etl\Desktop\project Vat\deletevat\deletevat\bin\Debug\DAL.pdb
+C:\Users\etl\Desktop\project Vat\deletevat\deletevat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\etl\Desktop\project Vat\deletevat\deletevat\obj\Debug\deletevat.frmMain.resources
+C:\Users\etl\Desktop\project Vat\deletevat\deletevat\obj\Debug\deletevat.Properties.Resources.resources
+C:\Users\etl\Desktop\project Vat\deletevat\deletevat\obj\Debug\deletevat.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\project Vat\deletevat\deletevat\bin\Debug\deletevat.exe.config
+C:\Users\user\Desktop\project Vat\deletevat\deletevat\obj\Debug\deletevat.exe
+C:\Users\user\Desktop\project Vat\deletevat\deletevat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\project Vat\deletevat\deletevat\obj\Debug\deletevat.frmMain.resources
+C:\Users\user\Desktop\project Vat\deletevat\deletevat\obj\Debug\deletevat.Properties.Resources.resources
+C:\Users\user\Desktop\project Vat\deletevat\deletevat\obj\Debug\deletevat.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\project Vat\deletevat\deletevat\bin\Debug\deletevat.exe
+C:\Users\user\Desktop\project Vat\deletevat\deletevat\bin\Debug\deletevat.pdb
+C:\Users\user\Desktop\project Vat\deletevat\deletevat\bin\Debug\DAL.dll
+C:\Users\user\Desktop\project Vat\deletevat\deletevat\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\project Vat\deletevat\deletevat\obj\Debug\deletevat.pdb
+C:\Users\user\Desktop\project Vat 123\deletevat\deletevat\bin\Debug\deletevat.exe.config
+C:\Users\user\Desktop\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.exe
+C:\Users\user\Desktop\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.pdb
+D:\project Vat 123\deletevat\deletevat\bin\Debug\deletevat.exe.config
+D:\project Vat 123\deletevat\deletevat\bin\Debug\deletevat.exe
+D:\project Vat 123\deletevat\deletevat\bin\Debug\deletevat.pdb
+D:\project Vat 123\deletevat\deletevat\bin\Debug\DAL.dll
+D:\project Vat 123\deletevat\deletevat\bin\Debug\DAL.pdb
+D:\project Vat 123\deletevat\deletevat\obj\Debug\ResolveAssemblyReference.cache
+D:\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.BaseForm.resources
+D:\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.Sales.resources
+D:\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.GoodsReceive.resources
+D:\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.MDIFrom.resources
+D:\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.Properties.Resources.resources
+D:\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.csproj.GenerateResource.Cache
+D:\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.exe
+D:\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.pdb
+E:\project Vat 123\deletevat\deletevat\bin\Debug\deletevat.exe.config
+E:\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.exe
+E:\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.pdb
+E:\project Vat 123\deletevat\deletevat\bin\Debug\deletevat.exe
+E:\project Vat 123\deletevat\deletevat\bin\Debug\deletevat.pdb
+E:\project Vat 123\deletevat\deletevat\bin\Debug\DAL.dll
+E:\project Vat 123\deletevat\deletevat\bin\Debug\DAL.pdb
+E:\project Vat 123\deletevat\deletevat\obj\Debug\ResolveAssemblyReference.cache
+E:\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.BaseForm.resources
+E:\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.Sales.resources
+E:\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.GoodsReceive.resources
+E:\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.MDIFrom.resources
+E:\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.Properties.Resources.resources
+E:\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.csproj.GenerateResource.Cache
+E:\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.firmMerge.resources
+D:\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\bin\Debug\deletevat.exe.config
+D:\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.exe
+D:\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.pdb
+D:\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\bin\Debug\deletevat.exe
+D:\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\bin\Debug\deletevat.pdb
+D:\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\bin\Debug\DAL.dll
+D:\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\bin\Debug\DAL.pdb
+D:\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\ResolveAssemblyReference.cache
+D:\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.BaseForm.resources
+D:\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.firmMerge.resources
+D:\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.Sales.resources
+D:\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.GoodsReceive.resources
+D:\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.MDIFrom.resources
+D:\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.Properties.Resources.resources
+D:\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.csproj.GenerateResource.Cache
+C:\Users\ETL\Desktop\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\bin\Debug\deletevat.exe.config
+C:\Users\ETL\Desktop\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.exe
+C:\Users\ETL\Desktop\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.pdb
+C:\Users\ETL\Desktop\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\bin\Debug\deletevat.exe
+C:\Users\ETL\Desktop\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\bin\Debug\deletevat.pdb
+C:\Users\ETL\Desktop\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\bin\Debug\DAL.dll
+C:\Users\ETL\Desktop\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\bin\Debug\DAL.pdb
+C:\Users\ETL\Desktop\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ETL\Desktop\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.BaseForm.resources
+C:\Users\ETL\Desktop\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.firmMerge.resources
+C:\Users\ETL\Desktop\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.Sales.resources
+C:\Users\ETL\Desktop\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.GoodsReceive.resources
+C:\Users\ETL\Desktop\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.MDIFrom.resources
+C:\Users\ETL\Desktop\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.Properties.Resources.resources
+C:\Users\ETL\Desktop\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.csproj.GenerateResource.Cache
+E:\well Food Latest\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\bin\Debug\deletevat.exe.config
+E:\well Food Latest\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.exe
+E:\well Food Latest\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.pdb
+E:\well Food Latest\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\bin\Debug\deletevat.exe
+E:\well Food Latest\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\bin\Debug\deletevat.pdb
+E:\well Food Latest\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\bin\Debug\DAL.dll
+E:\well Food Latest\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\bin\Debug\DAL.pdb
+E:\well Food Latest\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\ResolveAssemblyReference.cache
+E:\well Food Latest\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.BaseForm.resources
+E:\well Food Latest\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.firmMerge.resources
+E:\well Food Latest\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.Sales.resources
+E:\well Food Latest\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.GoodsReceive.resources
+E:\well Food Latest\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.MDIFrom.resources
+E:\well Food Latest\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.Properties.Resources.resources
+E:\well Food Latest\project Vat 17-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.csproj.GenerateResource.Cache
+E:\well Food Latest\project Vat 171-09-2012\project Vat 123\deletevat\deletevat\bin\Debug\deletevat.exe.config
+E:\well Food Latest\project Vat 171-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.exe
+E:\well Food Latest\project Vat 171-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.pdb
+E:\well Food Latest\project Vat 171-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\ResolveAssemblyReference.cache
+E:\well Food Latest\project Vat 171-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.BaseForm.resources
+E:\well Food Latest\project Vat 171-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.firmMerge.resources
+E:\well Food Latest\project Vat 171-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.Sales.resources
+E:\well Food Latest\project Vat 171-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.GoodsReceive.resources
+E:\well Food Latest\project Vat 171-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.MDIFrom.resources
+E:\well Food Latest\project Vat 171-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.Properties.Resources.resources
+E:\well Food Latest\project Vat 171-09-2012\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.csproj.GenerateResource.Cache
+E:\well Food Latest\project Vat 171-09-2012\project Vat 123\deletevat\deletevat\bin\Debug\deletevat.exe
+E:\well Food Latest\project Vat 171-09-2012\project Vat 123\deletevat\deletevat\bin\Debug\deletevat.pdb
+E:\well Food Latest\project Vat 171-09-2012\project Vat 123\deletevat\deletevat\bin\Debug\DAL.dll
+E:\well Food Latest\project Vat 171-09-2012\project Vat 123\deletevat\deletevat\bin\Debug\DAL.pdb
+E:\Maksud Saifullah Pulak\project Vat 123\deletevat\deletevat\bin\Debug\deletevat.exe.config
+E:\Maksud Saifullah Pulak\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.exe
+E:\Maksud Saifullah Pulak\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.pdb
+E:\Maksud Saifullah Pulak\project Vat 123\deletevat\deletevat\bin\Debug\deletevat.exe
+E:\Maksud Saifullah Pulak\project Vat 123\deletevat\deletevat\bin\Debug\deletevat.pdb
+E:\Maksud Saifullah Pulak\project Vat 123\deletevat\deletevat\bin\Debug\DAL.dll
+E:\Maksud Saifullah Pulak\project Vat 123\deletevat\deletevat\bin\Debug\DAL.pdb
+E:\Maksud Saifullah Pulak\project Vat 123\deletevat\deletevat\obj\Debug\ResolveAssemblyReference.cache
+E:\Maksud Saifullah Pulak\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.BaseForm.resources
+E:\Maksud Saifullah Pulak\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.firmMerge.resources
+E:\Maksud Saifullah Pulak\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.Sales.resources
+E:\Maksud Saifullah Pulak\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.GoodsReceive.resources
+E:\Maksud Saifullah Pulak\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.MDIFrom.resources
+E:\Maksud Saifullah Pulak\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.Properties.Resources.resources
+E:\Maksud Saifullah Pulak\project Vat 123\deletevat\deletevat\obj\Debug\deletevat.csproj.GenerateResource.Cache
+E:\Maksud Saifullah Pulak\project Vat 06-11-2012\deletevat\deletevat\bin\Debug\deletevat.exe.config
+E:\Maksud Saifullah Pulak\project Vat 06-11-2012\deletevat\deletevat\obj\Debug\deletevat.exe
+E:\Maksud Saifullah Pulak\project Vat 06-11-2012\deletevat\deletevat\obj\Debug\deletevat.pdb
+E:\Maksud Saifullah Pulak\project Vat 06-11-2012\deletevat\deletevat\bin\Debug\deletevat.exe
+E:\Maksud Saifullah Pulak\project Vat 06-11-2012\deletevat\deletevat\bin\Debug\deletevat.pdb
+E:\Maksud Saifullah Pulak\project Vat 06-11-2012\deletevat\deletevat\bin\Debug\DAL.dll
+E:\Maksud Saifullah Pulak\project Vat 06-11-2012\deletevat\deletevat\bin\Debug\DAL.pdb
+E:\Maksud Saifullah Pulak\project Vat 06-11-2012\deletevat\deletevat\obj\Debug\ResolveAssemblyReference.cache
+E:\Maksud Saifullah Pulak\project Vat 06-11-2012\deletevat\deletevat\obj\Debug\deletevat.BaseForm.resources
+E:\Maksud Saifullah Pulak\project Vat 06-11-2012\deletevat\deletevat\obj\Debug\deletevat.firmMerge.resources
+E:\Maksud Saifullah Pulak\project Vat 06-11-2012\deletevat\deletevat\obj\Debug\deletevat.Sales.resources
+E:\Maksud Saifullah Pulak\project Vat 06-11-2012\deletevat\deletevat\obj\Debug\deletevat.GoodsReceive.resources
+E:\Maksud Saifullah Pulak\project Vat 06-11-2012\deletevat\deletevat\obj\Debug\deletevat.MDIFrom.resources
+E:\Maksud Saifullah Pulak\project Vat 06-11-2012\deletevat\deletevat\obj\Debug\deletevat.Properties.Resources.resources
+E:\Maksud Saifullah Pulak\project Vat 06-11-2012\deletevat\deletevat\obj\Debug\deletevat.csproj.GenerateResource.Cache
+D:\Maksud Saifullah Pulaknew\project Vat 06-11-2012\deletevat\deletevat\bin\Debug\deletevat.exe.config
+D:\Maksud Saifullah Pulaknew\project Vat 06-11-2012\deletevat\deletevat\bin\Debug\deletevat.exe
+D:\Maksud Saifullah Pulaknew\project Vat 06-11-2012\deletevat\deletevat\bin\Debug\deletevat.pdb
+D:\Maksud Saifullah Pulaknew\project Vat 06-11-2012\deletevat\deletevat\bin\Debug\DAL.dll
+D:\Maksud Saifullah Pulaknew\project Vat 06-11-2012\deletevat\deletevat\bin\Debug\DAL.pdb
+D:\Maksud Saifullah Pulaknew\project Vat 06-11-2012\deletevat\deletevat\obj\Debug\ResolveAssemblyReference.cache
+D:\Maksud Saifullah Pulaknew\project Vat 06-11-2012\deletevat\deletevat\obj\Debug\deletevat.BaseForm.resources
+D:\Maksud Saifullah Pulaknew\project Vat 06-11-2012\deletevat\deletevat\obj\Debug\deletevat.firmMerge.resources
+D:\Maksud Saifullah Pulaknew\project Vat 06-11-2012\deletevat\deletevat\obj\Debug\deletevat.Sales.resources
+D:\Maksud Saifullah Pulaknew\project Vat 06-11-2012\deletevat\deletevat\obj\Debug\deletevat.GoodsReceive.resources
+D:\Maksud Saifullah Pulaknew\project Vat 06-11-2012\deletevat\deletevat\obj\Debug\deletevat.MDIFrom.resources
+D:\Maksud Saifullah Pulaknew\project Vat 06-11-2012\deletevat\deletevat\obj\Debug\deletevat.Properties.Resources.resources
+D:\Maksud Saifullah Pulaknew\project Vat 06-11-2012\deletevat\deletevat\obj\Debug\deletevat.csproj.GenerateResource.Cache
+D:\Maksud Saifullah Pulaknew\project Vat 06-11-2012\deletevat\deletevat\obj\Debug\deletevat.exe
+D:\Maksud Saifullah Pulaknew\project Vat 06-11-2012\deletevat\deletevat\obj\Debug\deletevat.pdb
+D:\Maksud Saifullah Pulaknew\project Vat 10-11-2012\deletevat\deletevat\bin\Debug\deletevat.exe.config
+D:\Maksud Saifullah Pulaknew\project Vat 10-11-2012\deletevat\deletevat\bin\Debug\deletevat.exe
+D:\Maksud Saifullah Pulaknew\project Vat 10-11-2012\deletevat\deletevat\bin\Debug\deletevat.pdb
+D:\Maksud Saifullah Pulaknew\project Vat 10-11-2012\deletevat\deletevat\bin\Debug\DAL.dll
+D:\Maksud Saifullah Pulaknew\project Vat 10-11-2012\deletevat\deletevat\bin\Debug\DAL.pdb
+D:\Maksud Saifullah Pulaknew\project Vat 10-11-2012\deletevat\deletevat\obj\Debug\ResolveAssemblyReference.cache
+D:\Maksud Saifullah Pulaknew\project Vat 10-11-2012\deletevat\deletevat\obj\Debug\deletevat.BaseForm.resources
+D:\Maksud Saifullah Pulaknew\project Vat 10-11-2012\deletevat\deletevat\obj\Debug\deletevat.firmMerge.resources
+D:\Maksud Saifullah Pulaknew\project Vat 10-11-2012\deletevat\deletevat\obj\Debug\deletevat.Sales.resources
+D:\Maksud Saifullah Pulaknew\project Vat 10-11-2012\deletevat\deletevat\obj\Debug\deletevat.GoodsReceive.resources
+D:\Maksud Saifullah Pulaknew\project Vat 10-11-2012\deletevat\deletevat\obj\Debug\deletevat.MDIFrom.resources
+D:\Maksud Saifullah Pulaknew\project Vat 10-11-2012\deletevat\deletevat\obj\Debug\deletevat.Properties.Resources.resources
+D:\Maksud Saifullah Pulaknew\project Vat 10-11-2012\deletevat\deletevat\obj\Debug\deletevat.csproj.GenerateResource.Cache
+D:\Maksud Saifullah Pulaknew\project Vat 10-11-2012\deletevat\deletevat\obj\Debug\deletevat.exe
+D:\Maksud Saifullah Pulaknew\project Vat 10-11-2012\deletevat\deletevat\obj\Debug\deletevat.pdb
+D:\Maksud Saifullah Pulaknew\deletevat\deletevat\obj\Debug\ResolveAssemblyReference.cache
+D:\Maksud Saifullah Pulaknew\deletevat\deletevat\obj\Debug\deletevat.BaseForm.resources
+D:\Maksud Saifullah Pulaknew\deletevat\deletevat\obj\Debug\deletevat.firmMerge.resources
+D:\Maksud Saifullah Pulaknew\deletevat\deletevat\obj\Debug\deletevat.Sales.resources
+D:\Maksud Saifullah Pulaknew\deletevat\deletevat\obj\Debug\deletevat.GoodsReceive.resources
+D:\Maksud Saifullah Pulaknew\deletevat\deletevat\obj\Debug\deletevat.MDIFrom.resources
+D:\Maksud Saifullah Pulaknew\deletevat\deletevat\obj\Debug\deletevat.Properties.Resources.resources
+D:\Maksud Saifullah Pulaknew\deletevat\deletevat\obj\Debug\deletevat.csproj.GenerateResource.Cache
+D:\Maksud Saifullah Pulaknew\deletevat\deletevat\obj\Debug\deletevat.exe
+D:\Maksud Saifullah Pulaknew\deletevat\deletevat\bin\Debug\deletevat.exe.config
+D:\Maksud Saifullah Pulaknew\deletevat\deletevat\bin\Debug\deletevat.exe
+D:\Maksud Saifullah Pulaknew\deletevat\deletevat\bin\Debug\deletevat.pdb
+D:\Maksud Saifullah Pulaknew\deletevat\deletevat\bin\Debug\DAL.dll
+D:\Maksud Saifullah Pulaknew\deletevat\deletevat\bin\Debug\DAL.pdb
+D:\Maksud Saifullah Pulaknew\deletevat\deletevat\obj\Debug\deletevat.pdb
+D:\Maksud Saifullah Pulaknew\deletevat demo new\deletevat\bin\Debug\deletevat.exe.config
+D:\Maksud Saifullah Pulaknew\deletevat demo new\deletevat\bin\Debug\deletevat.exe
+D:\Maksud Saifullah Pulaknew\deletevat demo new\deletevat\bin\Debug\deletevat.pdb
+D:\Maksud Saifullah Pulaknew\deletevat demo new\deletevat\bin\Debug\DAL.dll
+D:\Maksud Saifullah Pulaknew\deletevat demo new\deletevat\bin\Debug\DAL.pdb
+D:\Maksud Saifullah Pulaknew\deletevat demo new\deletevat\obj\Debug\ResolveAssemblyReference.cache
+D:\Maksud Saifullah Pulaknew\deletevat demo new\deletevat\obj\Debug\deletevat.BaseForm.resources
+D:\Maksud Saifullah Pulaknew\deletevat demo new\deletevat\obj\Debug\deletevat.firmMerge.resources
+D:\Maksud Saifullah Pulaknew\deletevat demo new\deletevat\obj\Debug\deletevat.Sales.resources
+D:\Maksud Saifullah Pulaknew\deletevat demo new\deletevat\obj\Debug\deletevat.GoodsReceive.resources
+D:\Maksud Saifullah Pulaknew\deletevat demo new\deletevat\obj\Debug\deletevat.MDIFrom.resources
+D:\Maksud Saifullah Pulaknew\deletevat demo new\deletevat\obj\Debug\deletevat.Properties.Resources.resources
+D:\Maksud Saifullah Pulaknew\deletevat demo new\deletevat\obj\Debug\deletevat.csproj.GenerateResource.Cache
+D:\Maksud Saifullah Pulaknew\deletevat demo new\deletevat\obj\Debug\deletevat.exe
+D:\Maksud Saifullah Pulaknew\deletevat demo new\deletevat\obj\Debug\deletevat.pdb
+E:\deletevat demo new\deletevat\obj\Debug\ResolveAssemblyReference.cache
+E:\deletevat demo new\deletevat\obj\Debug\deletevat.BaseForm.resources
+E:\deletevat demo new\deletevat\obj\Debug\deletevat.firmMerge.resources
+E:\deletevat demo new\deletevat\obj\Debug\deletevat.Sales.resources
+E:\deletevat demo new\deletevat\obj\Debug\deletevat.GoodsReceive.resources
+E:\deletevat demo new\deletevat\obj\Debug\deletevat.MDIFrom.resources
+E:\deletevat demo new\deletevat\obj\Debug\deletevat.Properties.Resources.resources
+E:\deletevat demo new\deletevat\obj\Debug\deletevat.csproj.GenerateResource.Cache
+E:\deletevat demo new\deletevat\bin\Debug\deletevat.exe.config
+E:\deletevat demo new\deletevat\bin\Debug\deletevat.exe
+E:\deletevat demo new\deletevat\bin\Debug\deletevat.pdb
+E:\deletevat demo new\deletevat\bin\Debug\DAL.dll
+E:\deletevat demo new\deletevat\bin\Debug\DAL.pdb
+E:\deletevat demo new\deletevat\obj\Debug\deletevat.exe
+E:\deletevat demo new\deletevat\obj\Debug\deletevat.pdb
+I:\deletevat demo new\deletevat\bin\Debug\deletevat.exe.config
+I:\deletevat demo new\deletevat\obj\Debug\deletevat.exe
+I:\deletevat demo new\deletevat\obj\Debug\deletevat.pdb
+I:\deletevat demo new\deletevat\bin\Debug\deletevat.exe
+I:\deletevat demo new\deletevat\bin\Debug\deletevat.pdb
+I:\deletevat demo new\deletevat\bin\Debug\DAL.dll
+I:\deletevat demo new\deletevat\bin\Debug\DAL.pdb
+I:\deletevat demo new\deletevat\obj\Debug\ResolveAssemblyReference.cache
+I:\deletevat demo new\deletevat\obj\Debug\deletevat.BaseForm.resources
+I:\deletevat demo new\deletevat\obj\Debug\deletevat.firmMerge.resources
+I:\deletevat demo new\deletevat\obj\Debug\deletevat.Sales.resources
+I:\deletevat demo new\deletevat\obj\Debug\deletevat.GoodsReceive.resources
+I:\deletevat demo new\deletevat\obj\Debug\deletevat.MDIFrom.resources
+I:\deletevat demo new\deletevat\obj\Debug\deletevat.Properties.Resources.resources
+I:\deletevat demo new\deletevat\obj\Debug\deletevat.csproj.GenerateResource.Cache
+C:\Users\MCT\Desktop\Cartier DeleteProject\deletevat demo new\deletevat\bin\Debug\deletevat.exe.config
+C:\Users\MCT\Desktop\Cartier DeleteProject\deletevat demo new\deletevat\obj\Debug\deletevat.exe
+C:\Users\MCT\Desktop\Cartier DeleteProject\deletevat demo new\deletevat\obj\Debug\deletevat.pdb
+C:\Users\MCT\Desktop\Cartier DeleteProject\deletevat demo new\deletevat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MCT\Desktop\Cartier DeleteProject\deletevat demo new\deletevat\obj\Debug\deletevat.BaseForm.resources
+C:\Users\MCT\Desktop\Cartier DeleteProject\deletevat demo new\deletevat\obj\Debug\deletevat.firmMerge.resources
+C:\Users\MCT\Desktop\Cartier DeleteProject\deletevat demo new\deletevat\obj\Debug\deletevat.Sales.resources
+C:\Users\MCT\Desktop\Cartier DeleteProject\deletevat demo new\deletevat\obj\Debug\deletevat.GoodsReceive.resources
+C:\Users\MCT\Desktop\Cartier DeleteProject\deletevat demo new\deletevat\obj\Debug\deletevat.MDIFrom.resources
+C:\Users\MCT\Desktop\Cartier DeleteProject\deletevat demo new\deletevat\obj\Debug\deletevat.Properties.Resources.resources
+C:\Users\MCT\Desktop\Cartier DeleteProject\deletevat demo new\deletevat\obj\Debug\deletevat.csproj.GenerateResource.Cache
+C:\Users\MCT\Desktop\Cartier DeleteProject\deletevat demo new\deletevat\bin\Debug\deletevat.exe
+C:\Users\MCT\Desktop\Cartier DeleteProject\deletevat demo new\deletevat\bin\Debug\deletevat.pdb
+C:\Users\MCT\Desktop\Cartier DeleteProject\deletevat demo new\deletevat\bin\Debug\DAL.dll
+C:\Users\MCT\Desktop\Cartier DeleteProject\deletevat demo new\deletevat\bin\Debug\DAL.pdb
+C:\Users\Mobashwir Hasan\Downloads\deletevat demo new1\deletevat demo new1\deletevat\bin\Debug\deletevat.exe.config
+C:\Users\Mobashwir Hasan\Downloads\deletevat demo new1\deletevat demo new1\deletevat\bin\Debug\deletevat.exe
+C:\Users\Mobashwir Hasan\Downloads\deletevat demo new1\deletevat demo new1\deletevat\bin\Debug\deletevat.pdb
+C:\Users\Mobashwir Hasan\Downloads\deletevat demo new1\deletevat demo new1\deletevat\bin\Debug\DAL.dll
+C:\Users\Mobashwir Hasan\Downloads\deletevat demo new1\deletevat demo new1\deletevat\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Mobashwir Hasan\Downloads\deletevat demo new1\deletevat demo new1\deletevat\bin\Debug\DAL.pdb
+C:\Users\Mobashwir Hasan\Downloads\deletevat demo new1\deletevat demo new1\deletevat\obj\Debug\deletevat.csprojAssemblyReference.cache
+C:\Users\Mobashwir Hasan\Downloads\deletevat demo new1\deletevat demo new1\deletevat\obj\Debug\deletevat.BaseForm.resources
+C:\Users\Mobashwir Hasan\Downloads\deletevat demo new1\deletevat demo new1\deletevat\obj\Debug\deletevat.firmMerge.resources
+C:\Users\Mobashwir Hasan\Downloads\deletevat demo new1\deletevat demo new1\deletevat\obj\Debug\deletevat.Sales.resources
+C:\Users\Mobashwir Hasan\Downloads\deletevat demo new1\deletevat demo new1\deletevat\obj\Debug\deletevat.GoodsReceive.resources
+C:\Users\Mobashwir Hasan\Downloads\deletevat demo new1\deletevat demo new1\deletevat\obj\Debug\deletevat.MDIFrom.resources
+C:\Users\Mobashwir Hasan\Downloads\deletevat demo new1\deletevat demo new1\deletevat\obj\Debug\deletevat.Properties.Resources.resources
+C:\Users\Mobashwir Hasan\Downloads\deletevat demo new1\deletevat demo new1\deletevat\obj\Debug\deletevat.csproj.GenerateResource.cache
+C:\Users\Mobashwir Hasan\Downloads\deletevat demo new1\deletevat demo new1\deletevat\obj\Debug\deletevat.csproj.CoreCompileInputs.cache
+C:\Users\Mobashwir Hasan\Downloads\deletevat demo new1\deletevat demo new1\deletevat\obj\Debug\deletevat.csproj.CopyComplete
+C:\Users\Mobashwir Hasan\Downloads\deletevat demo new1\deletevat demo new1\deletevat\obj\Debug\deletevat.exe
+C:\Users\Mobashwir Hasan\Downloads\deletevat demo new1\deletevat demo new1\deletevat\obj\Debug\deletevat.pdb

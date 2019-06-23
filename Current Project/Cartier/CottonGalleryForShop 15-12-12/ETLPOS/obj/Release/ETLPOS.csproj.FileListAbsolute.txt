@@ -1,0 +1,166 @@
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ResolveAssemblyReference.cache
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.DailySaleDateInput.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmCompany.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmCompanyBranch.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmCompanyToBranch.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmCustomerList.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmEmployeeSearch.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmItem.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmItemGroup.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmItemType.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmLocationToBranch.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmLogin.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmMasterExport.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmMasterImport.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmMTExpItems.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmReorderLevel.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmReportView.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmSupplier.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmCurrency.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.ETLPOSMDI.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmCustomer.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmEmployee.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmGR.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmLocation.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmMaterialTransfer.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmPriceMaster.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmSales.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmSearchGeneric.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmSupplierList.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmUOM.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmUser.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmVatClnNo.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.Properties.Resources.resources
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.csproj.GenerateResource.Cache
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\bin\Release\ETLPOS.exe.config
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\bin\Release\ETLPOS.exe
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\bin\Release\ETLPOS.pdb
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\bin\Release\BLL.dll
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\bin\Release\Common.dll
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\bin\Release\DAO.dll
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\bin\Release\Model.dll
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\bin\Release\msmdvbanet.dll
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\bin\Release\P_0_0_0.U_0.dll
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\bin\Release\BLL.pdb
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\bin\Release\Common.pdb
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\bin\Release\Model.pdb
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\bin\Release\DAO.pdb
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.exe
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.pdb
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\bin\Release\ETLPOS.exe.config
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\bin\Release\ETLPOS.exe
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\bin\Release\ETLPOS.pdb
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\bin\Release\BLL.dll
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\bin\Release\Common.dll
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\bin\Release\DAO.dll
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\bin\Release\Model.dll
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\bin\Release\msmdvbanet.dll
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\bin\Release\P_0_0_0.U_0.dll
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\bin\Release\BLL.pdb
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\bin\Release\Common.pdb
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\bin\Release\Model.pdb
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\bin\Release\DAO.pdb
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.DailySaleDateInput.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmCompany.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmCompanyBranch.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmCompanyToBranch.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmCustomerList.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmEmployeeSearch.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmItem.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmItemGroup.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmItemType.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmLocationToBranch.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmLogin.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmMasterExport.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmMasterImport.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmMTExpItems.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmReorderLevel.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmReportView.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmSupplier.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmCurrency.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.ETLPOSMDI.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmCustomer.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmEmployee.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmGR.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmLocation.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmMaterialTransfer.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmPriceMaster.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmSales.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmSearchGeneric.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmSupplierList.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmUOM.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmUser.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.frmVatClnNo.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.Properties.Resources.resources
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.csproj.GenerateResource.Cache
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.exe
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\ETLPOS\obj\Release\ETLPOS.pdb
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ResolveAssemblyReference.cache
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.BaseForm.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.DailySaleDateInput.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmBackup.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmBackupDB.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmCompany.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmCompanyBranch.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmCompanyToBranch.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmCustomerList.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmDailySalesNew.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmEmployeeSearch.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmGoodsImport.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmItem.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmItemGroup.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmItemStatus.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmItemType.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmLocationToBranch.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmLogin.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmMasterExport.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmMasterImport.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmMemberShip.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmMemberShipDetails.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmMemoList.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmMemoReport.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmMTExpItems.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmPALReport.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmPartyEntry.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmPayment.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmPaymentView.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmPriceview.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmPurchase.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmPurchaseView.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmReorderLevel.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmReportView.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmSales.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmSearchItem.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmsticker.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmSupplier.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmCurrency.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.ETLPOSMDI.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmCustomer.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmEmployee.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmGR.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmLocation.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmMaterialTransfer.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmPriceMaster.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmSearchGeneric.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmSupplierList.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmUOM.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmUser.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.frmVatClnNo.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.ItemUpdate.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.Properties.Resources.resources
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.csproj.GenerateResource.Cache
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.exe
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\bin\Release\ETLPOS.exe.config
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\bin\Release\ETLPOS.exe
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\bin\Release\ETLPOS.pdb
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\bin\Release\BLL.dll
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\bin\Release\Common.dll
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\bin\Release\DAO.dll
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\bin\Release\Model.dll
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\bin\Release\P_0_0_0.U_0.dll
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\bin\Release\BLL.pdb
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\bin\Release\Common.pdb
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\bin\Release\Model.pdb
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\bin\Release\DAO.pdb
+D:\SUN\CottonGalleryForShop 15-12-12\ETLPOS\obj\Release\ETLPOS.pdb

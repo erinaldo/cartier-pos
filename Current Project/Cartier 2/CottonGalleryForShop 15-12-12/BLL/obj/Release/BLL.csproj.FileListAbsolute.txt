@@ -1,0 +1,33 @@
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\BLL\bin\Release\BLL.dll
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\BLL\bin\Release\BLL.pdb
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\BLL\bin\Release\Common.dll
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\BLL\bin\Release\DAO.dll
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\BLL\bin\Release\Model.dll
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\BLL\bin\Release\Model.pdb
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\BLL\bin\Release\DAO.pdb
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\BLL\bin\Release\Common.pdb
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\BLL\obj\Release\ResolveAssemblyReference.cache
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\BLL\obj\Release\BLL.dll
+E:\ETL Projects\POS(15-03-09)\Advance_ETLPOS (28-01-2009) on Etl-7\BLL\obj\Release\BLL.pdb
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\BLL\bin\Release\BLL.dll
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\BLL\bin\Release\BLL.pdb
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\BLL\bin\Release\Common.dll
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\BLL\bin\Release\DAO.dll
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\BLL\bin\Release\Model.dll
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\BLL\bin\Release\Model.pdb
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\BLL\bin\Release\DAO.pdb
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\BLL\bin\Release\Common.pdb
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\BLL\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\BLL\obj\Release\BLL.dll
+D:\Projects\POS\New Folder\Advance_ETLPOS (28-01-2009) on Etl-7\Advance_ETLPOS (28-01-2009) on Etl-7\BLL\obj\Release\BLL.pdb
+D:\SUN\CottonGalleryForShop 15-12-12\BLL\bin\Release\BLL.dll
+D:\SUN\CottonGalleryForShop 15-12-12\BLL\bin\Release\BLL.pdb
+D:\SUN\CottonGalleryForShop 15-12-12\BLL\bin\Release\Common.dll
+D:\SUN\CottonGalleryForShop 15-12-12\BLL\bin\Release\DAO.dll
+D:\SUN\CottonGalleryForShop 15-12-12\BLL\bin\Release\Model.dll
+D:\SUN\CottonGalleryForShop 15-12-12\BLL\bin\Release\Common.pdb
+D:\SUN\CottonGalleryForShop 15-12-12\BLL\bin\Release\DAO.pdb
+D:\SUN\CottonGalleryForShop 15-12-12\BLL\bin\Release\Model.pdb
+D:\SUN\CottonGalleryForShop 15-12-12\BLL\obj\Release\ResolveAssemblyReference.cache
+D:\SUN\CottonGalleryForShop 15-12-12\BLL\obj\Release\BLL.dll
+D:\SUN\CottonGalleryForShop 15-12-12\BLL\obj\Release\BLL.pdb
